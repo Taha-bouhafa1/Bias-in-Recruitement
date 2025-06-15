@@ -84,7 +84,7 @@ Applied **Disparate Impact Remover** from IBM's [AIF360](https://aif360.mybluemi
 
 ├── bias_fairness_analysis.ipynb # Main notebook: preprocessing, modeling, bias analysis
 ├── README.md
-
+├── requirements.txt
 
 ---
 
